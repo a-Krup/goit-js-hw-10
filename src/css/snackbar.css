@@ -21,6 +21,8 @@ label {
   margin-top: 8px;
   margin-bottom: 16px;
   width: 360px;
+  padding: 8px;
+  font-size: 18px;
 }
 
 fieldset {
